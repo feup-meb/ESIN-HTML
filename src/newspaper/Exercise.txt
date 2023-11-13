@@ -1,0 +1,12 @@
+1. ONLINE NEWSPAPER.
+Using HTML 5 only, create a prototype of an online newspaper.
+
+Validate and verify the result on the browser as you proceed. Don’t mind about the visual aspect of the result (that will be taken care by using CSS).
+
+Use the site http://www.lipsum.com/ if you need to generate example paragraphs.
+Create separate sections for the header, menu and body of the newspaper. Use semantic tags (section, header, nav, …) for those sections.
+The header should have a title (h1), a subtitle (h2) and a logo (img).
+The menu should have links to each of the newspaper sections (sports, politics, …) organized using an unordered list (ul). These links can simply point to example URLs.
+The newspaper body should have a section for each news item. Use the semantic tag article.
+A news item should have a title (h3), an introduction (p) and an image (img). It should also have a footer containing the author name and date.
+Don’t forget to validate the page when you’re done.

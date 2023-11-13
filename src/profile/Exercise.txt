@@ -1,0 +1,8 @@
+4. USE HTML TO CREATE YOUR PROFILE IN A SOCIAL NETWORK.
+The profile should contain:
+
+Site header (Site name, …)
+Menu (Links to the various site sections: friends, messages, …)
+Personal Data (name, photo, …)
+Posts (including: text, date, image, comment number, …)
+Try to use semantic tags as much as possible and don’t forget to validate the resulting file.
